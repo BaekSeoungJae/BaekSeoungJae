@@ -1,12 +1,13 @@
+<div align="center">
+
 ### 👋 Welcome, my GitHub! I'm SeoungJae.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=150&section=header)
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:E6E6FA,100:D8BFD8&height=220&section=header&text=BaekSeoungJae&fontSize=60&fontColor=000000&animation=twinkling&stroke=808080,000000&strokeWidth=1)
 
-
-<h3 align="center">📚 Studying 📚</h3>
-<p align="center">
+<h3>📚 Studying 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
@@ -26,8 +27,9 @@
 <br>
 </p>
 <br>
-<h3 align="center">🌈 My Profile 🌈</h3>
-<p align="center">
+
+<h3>🌈 My Profile 🌈</h3>
+<p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekSeoungJae&count_bg=%23A1B2F1&title_bg=%2355587C&icon=github.svg&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
   <a href="https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"><img src="https://img.shields.io/badge/Notion-9B9B9B?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
 <br>
@@ -38,3 +40,5 @@
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=150&section=footer)
+
+</div>
