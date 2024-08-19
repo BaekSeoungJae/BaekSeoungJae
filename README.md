@@ -32,11 +32,11 @@
 <p>
   <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black&fontColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <br>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-7F00FF?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/V%20VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
@@ -53,7 +53,6 @@
   <a href="mailto:00bsj@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 </p>
 <br>
-
   <a href="https://github.com/BaekSeoungJae"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekSeoungJae&count_bg=%23A1B2F1&title_bg=%2355587C&icon=github.svg&icon_color=%23FBFBFB&title=GitHub&style=for-the-badge" alt="GitHub"></a>
   <br>
 
