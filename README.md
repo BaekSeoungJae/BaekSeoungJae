@@ -9,7 +9,9 @@
 <h3>📚 Studying 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-d14836?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/J%30Java-d14836?style=for-the-badge&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/J%30Java-007396?style=for-the-badge&logo=java&logoColor=white&color=black"/>
+
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
