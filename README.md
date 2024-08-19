@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <br>
-  <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=plastic&logo=INTELLIJ%20IDEA&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=INTELLIJ%20IDEA&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" style="border-radius: 10px;"/>
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <br>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
