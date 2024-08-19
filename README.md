@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=React%20Native&logoColor=61DAFB"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=React&logoColor=61DAFB"/></a>&nbsp
 </p>
 
 <h3 align="center">🌈 My Profile 🌈</h3>
