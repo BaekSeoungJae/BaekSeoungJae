@@ -1,4 +1,4 @@
-## 👋 Welcome, my GitHub! I'm SeoungJae.
+### 👋 Welcome, my GitHub! I'm SeoungJae.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=150&section=header)
 
