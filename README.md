@@ -1,6 +1,6 @@
 ## 안녕하세요, 백승재 입니다 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:87CEFA,100:4682B4&height=350&section=header&text=Welcome%20to%20BaekSeoungJae&fontSize=55&fontColor=cccccc&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:87CEFA,100:4682B4&height=350&section=header&text=BaekSeoungJae&fontSize=55&fontColor=cccccc&animation=twinkling)
 
 ### About Me
 - 🔭 I’m currently working on ...
