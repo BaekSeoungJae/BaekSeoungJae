@@ -1,4 +1,5 @@
 ### 👋 Welcome, my GitHub! I'm SeoungJae.
+<h3 style="border-bottom: 2px solid #000; display: inline-block; padding-bottom: 10px;">👋 Welcome, my GitHub! I'm SeoungJae.</h3>
 
 <div align="center">
 
