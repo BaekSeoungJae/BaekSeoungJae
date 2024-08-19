@@ -24,12 +24,8 @@
 
 <h3 align="center">🌈 My Profile 🌈</h3>
 <p align="center">
-<a href="https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda">
-  <img src="https://img.shields.io/badge/Notion-9B9B9B?style=flat&logo=Notion&logoColor=white&link=https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"/>
-</a>&nbsp
-  <a href="https://www.instagram.com/sj_oob/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj_oob/"/>
-  </a>&nbsp
+  <a href="https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"><img src="https://img.shields.io/badge/Notion-9B9B9B?style=flat&logo=Notion&logoColor=white&link=https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"/></a>&nbsp
+  <a href="https://www.instagram.com/sj_oob/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sj_oob/"/></a>&nbsp
   <a href="mailto:001103bsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=001103bsj@gmail.com"/></a>
 </p>
 
