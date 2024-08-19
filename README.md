@@ -46,14 +46,16 @@
 
 <h3>🌈 My Profile 🌈</h3>
 <p>
-  <a href="https://github.com/BaekSeoungJae"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekSeoungJae&count_bg=%23A1B2F1&title_bg=%2355587C&icon=github.svg&icon_color=%23FBFBFB&title=GitHub&style=for-the-badge" alt="GitHub"></a>
+  <a href="https://www.instagram.com/sj_oob/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"><img src="https://img.shields.io/badge/Notion-9B9B9B?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp
 <br>
-  <a href="https://www.instagram.com/sj_oob/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:001103bsj@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:00bsj@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 </p>
 <br>
+
+  <a href="https://github.com/BaekSeoungJae"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekSeoungJae&count_bg=%23A1B2F1&title_bg=%2355587C&icon=github.svg&icon_color=%23FBFBFB&title=GitHub&style=for-the-badge" alt="GitHub"></a>
+  <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=150&section=footer)
 
