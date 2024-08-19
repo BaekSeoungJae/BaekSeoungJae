@@ -1,10 +1,6 @@
-## Hi there 👋
+## 안녕하세요, 백승재 입니다 👋
 
-<!--
-**BaekSeoungJae/BaekSeoungJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:560bad&height=300&section=header&text=Welcome%20to%20My%20Profile!&fontSize=80&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:560bad&height=300&section=header&text=Welcome%20to%20BaekSeoungJae&fontSize=80&fontColor=cccccc&animation=twinkling)
 
 ### About Me
 - 🔭 I’m currently working on ...
