@@ -46,7 +46,7 @@
 
 <h3>🌈 My Profile 🌈</h3>
 <p>
-  <a href="https://github.com/BaekSeoungJae"><img src="https://img.shields.io/badge/visitors%20-%23A1B2F1?style=flat&logo=github&logoColor=white" alt="Visitors"></a>
+  <a href="https://github.com/BaekSeoungJae"><img src="https://img.shields.io/badge/visitors%20-%23A1B2F1?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://elfin-heath-52c.notion.site/5be4983d312a44e6bdaa1073420f2eda"><img src="https://img.shields.io/badge/Notion-9B9B9B?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp
 <br>
   <a href="https://www.instagram.com/sj_oob/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
